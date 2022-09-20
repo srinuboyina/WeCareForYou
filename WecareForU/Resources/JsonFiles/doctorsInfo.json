@@ -1,0 +1,140 @@
+{
+    "info": [
+      {
+        "name": "Dr. Namita Jain",
+        "specializedIn": "Cancer Specialist",
+        "address": "Sparsh Hospice",
+        "availabilityTime": "10:30 am - 5:00 pm",
+        "contactDetail": {
+          "email": "namitjain@wecare.com",
+          "phoneNumber": "+91-9876543210",
+          "completeAddress": "123/A, Sparsh hospice, Behind SBI Bank, Hitec City, Hyderabad, 500019",
+          "isBusy": true
+        },
+        "schedules": [
+          {
+            "time": "10:30 am - 11:30 am",
+            "isAvailable": false
+          },
+          {
+            "time": "11:30 am - 12:30 pm",
+            "isAvailable": false
+          },
+          {
+            "time": "12:30 pm - 1:30 pm",
+            "isAvailable": false
+          },
+          {
+            "time": "2:00 pm - 3:00 pm",
+            "isAvailable": false
+          },
+          {
+            "time": "3:00 pm - 4:00 pm",
+            "isAvailable": false
+          },
+          {
+            "time": "4:00 pm - 5:00 pm",
+            "isAvailable": false
+          }
+        ]
+      },
+      {
+        "name": "Dr. Pallavi Reddy",
+        "specializedIn": "Cancer Specialist",
+        "address": "Sparsh Hospice",
+        "availabilityTime": "10:30 am - 5:00 pm",
+        "contactDetail": {
+          "email": "pallaviReddy@wecare.com",
+          "phoneNumber": "+91-9876543210",
+          "completeAddress": "123/A, Sparsh hospice, Behind SBI Bank, Hitec City, Hyderabad, 500019",
+          "isBusy": false
+        },
+        "schedules": [
+          {
+            "time": "10:30 am - 11:30 am",
+            "isAvailable": false
+          },
+          {
+            "time": "11:30 am - 12:30 pm",
+            "isAvailable": false
+          },
+          {
+            "time": "12:30 pm - 1:30 pm",
+            "isAvailable": false
+          },
+          {
+            "time": "2:00 pm - 3:00 pm",
+            "isAvailable": false
+          }
+        ]
+      },
+      {
+        "name": "Dr. Sumitra Sen",
+        "specializedIn": "Pscychologist",
+        "address": "Sparsh Hospice",
+        "availabilityTime": "10:30 am - 5:00 pm",
+        "contactDetail": {
+          "email": "sumitrasen@wecare.com",
+          "phoneNumber": "+91-9876543210",
+          "completeAddress": "123/A, Sparsh hospice, Behind SBI Bank, Hitec City, Hyderabad, 500019",
+          "isBusy": false
+        },
+        "schedules": [
+          {
+            "time": "10:30 am - 11:30 am",
+            "isAvailable": false
+          },
+          {
+            "time": "11:30 am - 12:30 pm",
+            "isAvailable": false
+          },
+          {
+            "time": "12:30 pm - 1:30 pm",
+            "isAvailable": false
+          },
+          {
+            "time": "2:00 pm - 3:00 pm",
+            "isAvailable": false
+          }
+        ]
+      },
+      {
+        "name": "Dr. Ramesh Iyer",
+        "specializedIn": "Cancer Specialist",
+        "address": "Sparsh Hospice",
+        "availabilityTime": "10:30 am - 5:00 pm",
+        "contactDetail": {
+          "email": "rameshIyer@wecare.com",
+          "phoneNumber": "+91-9876543210",
+          "completeAddress": "123/A, Sparsh hospice, Behind SBI Bank, Hitec City, Hyderabad, 500019",
+          "isBusy": false
+        },
+        "schedules": [
+          {
+            "time": "10:30 am - 11:30 am",
+            "isAvailable": false
+          },
+          {
+            "time": "11:30 am - 12:30 pm",
+            "isAvailable": false
+          },
+          {
+            "time": "12:30 pm - 1:30 pm",
+            "isAvailable": false
+          },
+          {
+            "time": "2:00 pm - 3:00 pm",
+            "isAvailable": false
+          },
+          {
+            "time": "3:00 pm - 4:00 pm",
+            "isAvailable": false
+          },
+          {
+            "time": "4:00 pm - 5:00 pm",
+            "isAvailable": false
+          }
+        ]
+      }
+    ]
+}

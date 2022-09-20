@@ -1,0 +1,36 @@
+
+[
+    {
+        "name"  : "profile",
+        "image": "ProfileIcon"
+    },
+    {
+        "name": "bookings",
+        "image": "BookingIcon"
+    },
+    {
+        "name": "donation",
+        "image": "DonationIcon"
+    },
+    {
+        "name": "notifications",
+        "image": "NotificationIcon"
+    },
+    {
+        "name": "changeLanguage",
+        "image": "LanguageIcon"
+    },
+    {
+        "name": "faq",
+        "screenType": "faq",
+        "image": "FAQIcon"
+    },
+    {
+        "name": "feedback",
+        "image": "FeedbackIcon"
+    },
+    {
+        "name": "logout",
+        "image": "LogoutIcon"
+    }
+]

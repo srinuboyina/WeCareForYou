@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  WecareForU
+
+  Created by apple on 4/20/22.
+  
+*/
+
+//MARK: Login/Signup
+"Email/Mobile"      = "Email/Mobile";
+"Login"             = "Login";
+"Login Now"         = "Login Now";
+"Already have an account?" = "Already have an account?";
+"Forgot Password?"  = "Forgot Password?";
+"Not Registered?"   = "Not Registered?";
+"Create Account"    = "Create Account";
+"SignUp"            = "SignUp";
+"Password"          = "Password";
+"Select a language" = "Select a language";
+"Send"              = "Send";
+"Remember Password?"  = "Remember Password?";
+"Confirm Password"   = "Confirm Password";
+"About"             = "Our mission is to offer serene and dignified departure to terminal patiensts. Our goal is to safe guard their dignity and self-respect. All this through pain management and comfort care with the help of compassionate and skilled multi-disciplinary team members.";
+"EnterEmailInstruction" = "Please enter your registered email below to receive password reset instruction.";
+
+"Login Failed"       = "Sign Up Failed";
+"Username Password match error" = "The username/password combination is invalid.";
+"SignUp Failed"      = "Sign Up Failed";
+"Username Password match error" = "The username/password combination is invalid.";
+
+// MARK: Onboard
+"OnboardTitle1"      = "Home care services";
+"OnboardDescription1"= "Easy access to Home care services, patient registration, self awareness tours on your finger tips.";
+"OnboardTitle2"      = "Easy consultations";
+"OnboardDescription2"= "Want to consult about nutrition requirement or want to share medical reports to get expert advice? We are here for you.";
+"OnboardTitle3"      = "Want to volunteer?";
+"OnboardDescription3"= "Do you want to help patients by giving them guidance on various areas based on your expertise? Register with us and provide your availability.";
+
+
+//MARK: Create Profile
+"personalInformation" = "Personal Information";
+"joiningAs"           = "Joining as? (Beneficiary / Volunteer / Hospital Staff)";
+"fullName"            = "FullName";
+"age"                 = "Age";
+"gender"              = "Gender";
+"maritalStatus"       = "Marital Status";
+"next"                = "Next";
+//
+"contactDetails"      = "Contact Details";
+"contactNo"           = "Contact Number";
+"ruralOrUrban"        = "Rural or Urban?";
+"address"             = "Address";
+"state"               = "State";
+"pincode"             = "Pincode";
+//
+"professionalDetails" = "Professional Details";
+"idNo"                  = "ID Number (Aadhar / Passport / Ration card no etc)";
+"occupation" = "Occupation";
+"annualIncome" = "Annual Income(INR)";
+"bplCategory" = "BPL Category?";
+"education" = "Education";
+"careGiverName" = "Caregiver's Name";
+"careGiverNumber"= "Caregiver's Contact Number";
+"reference" = "Reference";
+"patientAdmitType" = "In patient / Out patient / Home Care";
+"diagnosis" = "Diagnosis";
+"typeOfCancer" = "If cancer, what kind of cancer?";
+"submit" = "Submit";
+
+//MARK: Generic View
+"thankYouTitle" = "Profile completed successfully!";
+"thankYouDesc" = "Thank you for letting us know about you. We are hear for you.";
+"explore" = "Explore Now";
+"emailSentTitle" = "Email has been sent!";
+"emailSentDescription" = "Please check your inbox and click the received link to reset the password.";
+"retry" = "Retry";
+"skip"  = "Skip";
+"errorTitle" = "We are sorry, encountered some error. Please retry.";
+"errorMessage" = "Alternatively, you can skip for now and retry later from setting page.";
+
+//MARK: Feedback View
+"sendYour" = "Send Your";
+"feedback" = "Feedback";
+
+"pickYour" = "Pick Your";
+"language" = "Language";
+"english"  = "English";
+"telugu"   = "Telugu";
+"confirm"  = "Confirm";
+
+//MARK: Home
+"homeSubTitle" = "Let us know how can we help you.";
+"hi" = "Hi";
+"profile" = "Profile";
+"bookings" = "Bookings";
+"donation" = "Donation";
+"notifications" = "Notifications";
+"changeLanguage" = "Change Language";
+"faq" = "FAQ";
+"feedback" = "Feedback";
+"logout" = "Log out";

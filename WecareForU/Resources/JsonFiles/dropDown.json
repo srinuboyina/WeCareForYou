@@ -1,0 +1,359 @@
+{
+    "joiningAs" : [
+        {
+            "name"  : "Beneficiary",
+            "id": "1"
+        },
+        {
+            "name"  : "Volunteer",
+            "id": "2"
+        },
+        {
+            "name"  : "Hospital Staff",
+            "id": "3"
+        },
+        {
+            "name"  : "Others",
+            "id": "4"
+        }
+    ],
+    "age" : [
+        {
+            "name"  : "1 to 15 years",
+            "id": "1",
+            "type": "Paediatric"
+        },
+        {
+            "name"  : "16 to 30 years",
+            "id": "2",
+            "type": "Young Age"
+        },
+        {
+            "name"  : "30 to 55 years",
+            "id": "3",
+            "type": "Middle Aged"
+        },
+        {
+            "name"  : "55 to 70 years",
+            "id": "4",
+            "type": "Sr. Citizen"
+        },
+        {
+            "name"  : "above 70 years",
+            "id": "5",
+            "type": "Geriatric"
+        }
+    ],
+    "maritalStatus" : [
+        {
+            "name"  : "Married",
+            "id": "1"
+        },
+        {
+            "name"  : "UnMarried",
+            "id": "2"
+        }
+    ],
+    "gender" : [
+        {
+            "name"  : "Male",
+            "id": "1"
+        },
+        {
+            "name"  : "Female",
+            "id": "2"
+        }
+    ],
+    "ruralOrUrban" : [
+        {
+            "name"  : "Rural",
+            "id": "1"
+        },
+        {
+            "name"  : "Urban",
+            "id": "2"
+        }
+    ],
+    "bplCategory" : [
+        {
+            "name"  : "Yes",
+            "id": "1"
+        },
+        {
+            "name"  : "Not",
+            "id": "2"
+        }
+    ],
+    "annualIncome" : [
+        {
+            "name"  : "1-2 Lakhs",
+            "id": "1"
+        },
+        {
+            "name"  : "2-4 Lakhs",
+            "id": "2"
+        },
+        {
+            "name"  : "4-8 Lakhs",
+            "id": "3"
+        },
+        {
+            "name"  : "Above 8 Lakhs",
+            "id": "4"
+        }
+    ],
+    "reference" : [
+        {
+            "name"  : "Doctors",
+            "id": "1"
+        },
+        {
+            "name"  : "Social Media",
+            "id": "2"
+        },
+        {
+            "name"  : "Hospital",
+            "id": "3"
+        },
+        {
+            "name"  : "Government Institution",
+            "id": "4"
+        },
+        {
+            "name"  : "NGOs",
+            "id": "5"
+        },
+        {
+            "name"  : "Old Patient",
+            "id": "6"
+        },
+        {
+            "name"  : "Old Patient Family Members",
+            "id": "7"
+        },
+        {
+            "name"  : "Others",
+            "id": "7"
+        }
+    ],
+    "occupation" : [
+        {
+            "name"  : "Private Job",
+            "id": "1"
+        },
+        {
+            "name"  : "Accountant",
+            "id": "2"
+        },
+        {
+            "name"  : "Student",
+            "id": "3"
+        },
+        {
+            "name"  : "Government Job",
+            "id": "4"
+        },
+        {
+            "name"  : "Nursing",
+            "id": "5"
+        },
+        {
+            "name"  : "Psychologist",
+            "id": "6"
+        },
+        {
+            "name"  : "Others",
+            "id": "7"
+        }
+    ],
+    "cancerType" : [
+        {
+            "name"  : "CA Bone",
+            "id": "1"
+        },
+        {
+            "name"  : "CA Buccal",
+            "id": "2"
+        },
+        {
+            "name"  : "CA Breast",
+            "id": "3"
+        },
+        {
+            "name"  : "CA Cervix",
+            "id": "4"
+        },
+        {
+            "name"  : "CA Stomach",
+            "id": "5"
+        },
+        {
+            "name"  : "CA Galblader",
+            "id": "6"
+        },
+        {
+            "name"  : "CA Prostate",
+            "id": "7"
+        },
+        {
+            "name"  : "Others",
+            "id": "8"
+        }
+    ],
+    "education" : [
+        {
+            "name"  : "Class 10",
+            "id": "1"
+        },
+        {
+            "name"  : "Nursing",
+            "id": "2"
+        },
+        {
+            "name"  : "Doctor",
+            "id": "3"
+        },
+        {
+            "name"  : "Intermediate",
+            "id": "4"
+        },
+        {
+            "name"  : "Graduate",
+            "id": "5"
+        },
+        {
+            "name"  : "PG",
+            "id": "6"
+        },
+        {
+            "name"  : "Others",
+            "id": "7"
+        }
+    ],
+    "volunteerInterest" : [
+        {
+            "name"  : "Social Media",
+            "id": "1"
+        },
+        {
+            "name"  : "Psychological Care",
+            "id": "2"
+        },
+        {
+            "name"  : "Medical Care",
+            "id": "3"
+        },
+        {
+            "name"  : "Accounts",
+            "id": "4"
+        },
+        {
+            "name"  : "Awareness Campaign",
+            "id": "5"
+        },
+        {
+            "name"  : "Digital Marketing",
+            "id": "6"
+        },
+        {
+            "name"  : "Others",
+            "id": "7"
+        }
+    ],
+    "symptoms" : [
+        {
+            "name"  : "Body Pains",
+            "id": "1"
+        },
+        {
+            "name"  : "Vomiting Sensation",
+            "id": "2"
+        },
+        {
+            "name"  : "Motions",
+            "id": "3"
+        },
+        {
+            "name"  : "Loss of Memory",
+            "id": "4"
+        },
+        {
+            "name"  : "halogenations",
+            "id": "5"
+        },
+        {
+            "name"  : "Others",
+            "id": "6"
+        }
+    ],
+    "diagnosis" : [
+        {
+            "name"  : "CA Lung",
+            "id": "1"
+        },
+        {
+            "name"  : "CA Bone",
+            "id": "2"
+        },
+        {
+            "name"  : "Paraplegic",
+            "id": "3"
+        },
+        {
+            "name"  : "Multiple Stroke",
+            "id": "4"
+        },
+        {
+            "name"  : "Advance Level Dementia",
+            "id": "5"
+        },
+        {
+            "name"  : "Parkinson's",
+            "id": "6"
+        },
+        {
+            "name"  : "Liver Sirosis",
+            "id": "7"
+        },
+        {
+            "name"  : "Others",
+            "id": "8"
+        }
+    ],
+    "nutritionReq" : [
+        {
+            "name"  : "Groceries",
+            "id": "1"
+        },
+        {
+            "name"  : "Juices",
+            "id": "2"
+        },
+        {
+            "name"  : "Milk",
+            "id": "3"
+        },
+        {
+            "name"  : "Protein Powder",
+            "id": "4"
+        },
+        {
+            "name"  : "Millets",
+            "id": "5"
+        },
+        {
+            "name"  : "Others",
+            "id": "6"
+        }
+    ],
+    "patientAdmitType" : [
+        {
+            "name"  : "In Patient",
+            "id": "1"
+        },
+        {
+            "name"  : "Out Patient",
+            "id": "2"
+        }
+    ]
+}
